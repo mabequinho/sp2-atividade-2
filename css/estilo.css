@@ -1,5 +1,16 @@
 /*cabeçalho*/
 
+/*Top bar*/
+
+#topbar {
+  background-color: black;
+}
+
+.nav-link {
+  margin-left: 20px;
+}
+
+/* navbar */
 
 /*Conteudo principal*/
 
