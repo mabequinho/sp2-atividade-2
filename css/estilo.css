@@ -30,9 +30,12 @@
 
 
 /*banner*/
-
 #section-banners {
-  height: 500px;
+  padding: 10px;
+}
+
+#section-banners .carousel-item {
+  max-height: 400px;
 }
 
 /*Produtos vendidos*/
