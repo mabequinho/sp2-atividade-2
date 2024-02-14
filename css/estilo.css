@@ -1,0 +1,40 @@
+/*cabeçalho*/
+
+
+/*Conteudo principal*/
+
+
+/*banner*/
+
+#section-banners {
+  height: 500px;
+}
+
+/*Produtos vendidos*/
+
+#section-vendidos {
+  text-align: center;
+}
+
+#section-vendidos .card {
+  border: 2px solid red;
+
+}
+
+/*Rodapé*/
+footer {
+  text-align: center;
+}
+
+footer p {
+  font-weight: bolder;
+  padding: 20px;
+
+}
+
+/*Botão Voltar topo*/
+
+/* página de login  */
+
+
+/* Formulário de cadastro*/
