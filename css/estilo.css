@@ -34,15 +34,7 @@
 
 #section-banners {
   padding: 10px;
-  max-height: 800px;
-}
-
-#section-banners .carousel-item {
-  height: 300px;
-}
-
-#section-banners .card {
-  height: 300px;
+  height: 500px;
 }
 
 .carousel-control-next-icon,
