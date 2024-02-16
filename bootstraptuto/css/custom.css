@@ -1,0 +1,24 @@
+.banner-img {
+  height: 500px;
+}
+
+#carouselBanner {
+  height: 500px;
+}
+
+.carousel-indicators .active {
+  background-color: #000000;
+}
+
+#ofertas {
+  max-width: 90rem;
+}
+
+#ofertas .card-img-top {
+  height: 250px;
+}
+
+#ofertas .card {
+  height: 500px;
+  width: 18rem;
+}
