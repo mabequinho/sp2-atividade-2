@@ -1,6 +1,16 @@
-#secondarybar {
+#topbar {
+  background-color: #000000;
+}
 
+#secondarybar {
   background-color: #D2E2EB;
+}
+
+.nav-icon {
+  margin-left: 20px;
+  fill: #D2E2EB;
+  width: 20px;
+  height: 20px;
 }
 
 .nav-link {
