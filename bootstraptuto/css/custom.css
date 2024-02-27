@@ -44,3 +44,18 @@
   height: 500px;
   width: 18rem;
 }
+
+#rodape {
+  background-color: #000000;
+}
+
+.footericon {
+  fill: #D2E2EB;
+  width: 20px;
+  height: 20px;
+}
+
+.footerlogol {
+  height: 50px;
+
+}
