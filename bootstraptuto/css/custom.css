@@ -1,3 +1,15 @@
+#secondarybar {
+
+  background-color: #D2E2EB;
+}
+
+.nav-link {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 5px;
+  background-color: white;
+}
+
 .banner-img {
   height: 500px;
 }
